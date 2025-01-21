@@ -64,7 +64,7 @@ const Todo = () => {
 
 
   return (
-    <div className='flex flex-col bg-white  rounded-xl h-[580px] w-[500px] p-7 min-h-[220px] min-w-[140px]'>
+    <div className='flex flex-col bg-white  rounded-xl max-h-[680px] w-[500px] p-7 min-h-[580px] min-w-[140px]'>
 
      {/* title */}
         <div className='flex items-center mt-6 gap-3'>
